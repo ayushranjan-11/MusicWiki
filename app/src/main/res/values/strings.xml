@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MusicWiki</string>
+
+    <string name="genre1_name">Rock</string>
+    <string name="genre2_name">Electronic</string>
+    <string name="genre3_name">Bollywood</string>
+    <string name="genre4_name">Soul</string>
+    <string name="genre5_name">Funk</string>
+    <string name="genre6_name">Country</string>
+    <string name="genre7_name">Latin</string>
+    <string name="genre8_name">Hip-Hop</string>
+    <string name="genre9_name">K-pop</string>
+    <string name="genre10_name">Sufi</string>
+    <string name="genre11_name">90s</string>
+
+
+    <string name="welcome">welcome</string>
+
+    <!--genre strings-->
+    <string name="genreSelect">Choose a genre to start with</string>
+    <string name="genretype">Rock</string>
+    <string name="genreDetails">Rock music is a genre of popular music. … Rock music is
+        related to a number of other genres such as blues and folk. It has influences from jazz, classical and other music genres.
+        Musically, rock mostly uses the electric guitar as part of a rock group with bass guitar and drums.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--artist page strings-->
+    <string name="artist_name">Dragons</string>
+    <string name="about_artist">
+        Imagine Dragons is an American pop rock band from Las Vegas, Nevada,
+        consisting of lead singer Dan Reynolds, lead guitarist Wayne Sermon,
+        bassist Ben McKee, and drummer Daniel Platzman.[1]Rolling Stone named "Radioactive", which holds the record for most weeks charted on the
+        Billboard Hot 100, the "biggest rock hit of the year".</string>
+
+</resources>
